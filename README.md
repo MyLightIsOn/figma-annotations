@@ -1,6 +1,6 @@
 # Figma Accessibility Annotations
 
-A collection of accessibility annotation guides for designers using Figma. These annotations help designers communicate accessibility requirements to developers when handing off completed designs.
+A collection of accessibility annotation guides for designers using Figma to design native mobile applications. These annotations help designers communicate accessibility requirements to developers when handing off completed designs.
 
 ## What are these annotations?
 
